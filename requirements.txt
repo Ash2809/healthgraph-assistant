@@ -4,3 +4,9 @@ python-multipart
 twilio
 pydantic
 httpx
+langchain
+langgraph
+langchain-google-genai
+langchain-community
+langchain-huggingface
+google-generativeai
